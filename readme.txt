@@ -14,7 +14,7 @@ ellipsis AdNet is a network of trusted publishers and merchants that enables sim
 
 == Installation ==
 
-1. Upload 'ellipsis-adnet-codesnippet.zip' and unzip to the '/wp-content/plugins/' directory
+1. Download and unzip the plugin to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use [adnet key='<your Ad's ellipsis AdNet key>' /] in your posts where ever you want to show that specific ellipsis AdNet Ad.
 
